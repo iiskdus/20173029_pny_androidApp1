@@ -3,6 +3,6 @@
 ## 1추차
 
 ## 2주차
-  - Github 사용법
+  <img width="" height="" src="./png/2st_APP.jpg"></img> 
   
-<img width="300" height="300" src="./png/강아지.jpg"></img> 
+
