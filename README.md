@@ -3,6 +3,6 @@
 ## 1추차
 
 ## 2주차
-  <img width="" height="" src="./png/2st_APP.png"></img> 
+  <img width="" height="" src="./png/2st_APP.PNG"></img> 
   
 
